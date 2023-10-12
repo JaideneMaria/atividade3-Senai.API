@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\Exo.WebApi.csproj": {}
+    "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\Exo.WebApi.csproj": {
+    "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\jaidene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\obj\\",
+        "outputPath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaidene\\AppData\\Roaming\\NuGet\\NuGet.Config"

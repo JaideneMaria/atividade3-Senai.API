@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C3kfhsnORugr+3+XEwgLga5tVRAaNlgrqXif/v1jS1pYNbaB8ryLvZ5qMbE0CnQocZI++mvOPc5bTnyTmy066g==",
+  "dgSpecHash": "v/u5dpMMuyk4xCcKxH0da/ByfGF8cNTaspsJG0i72X6q5zzFZsNQBub4scpKpou1pSEu8aa1YIeJqGWt7CUdKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Senai - API\\Atividade_SenaiAPI-master\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jaidene\\OneDrive\\Área de Trabalho\\Atividade3-Senai-API\\atividade3-Senai.API\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaidene\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\jaidene\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
